@@ -27,7 +27,7 @@ Clona el repositorio e instala las dependencias:
 
 ```bash
 # Clona el repositorio
-git clone [https://github.com/Estebantrusant/Semana11_IG.git](https://github.com/Estebantrusant/Semana11_IG.git)
+git clone https://github.com/Estebantrusant/Semana11_IG.git
 cd Semana11_IG
 
 # Instala las dependencias (three, @tweenjs/tween.js, vite)
