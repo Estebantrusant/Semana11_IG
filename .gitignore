@@ -1,0 +1,24 @@
+# Directorio de dependencias de Node
+/node_modules
+
+# Archivos de build/distribución (generados por Vite o similar)
+/dist
+/build
+/out
+
+# Archivos de caché del sistema operativo/editor
+.DS_Store
+Thumbs.db
+
+# Logs y archivos temporales de npm
+npm-debug.log*
+yarn-debug.log*
+.log
+
+# Archivos de configuración de entorno (si usas variables de entorno)
+.env
+.env.local
+.env.*.local
+
+# Directorios de configuración específicos de VS Code (opcional, ignóralo si no quieres subir configuraciones de workspace)
+.vscode/
